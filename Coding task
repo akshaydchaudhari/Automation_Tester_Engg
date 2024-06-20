@@ -1,0 +1,27 @@
+Java programs asked in interview for 5+ years experience QA Automation Engineer
+
+1. Write function in java for find out sum of distinct elements of array
+Input : {5,1,8,4,9,1,5}
+Output: 27
+
+2. Write programs To print each letter twice.
+Original String: hello 
+Output String: hheelllloo
+
+3. Write program to count Odd and Even Number from given array.
+Input: {1,2,3,4,5,6,7,8,9}
+Output:
+Number of even elements: 4
+Number of odd elements: 5
+
+4. Write program for Remove duplicate characters from given string in java.
+Input String: "characters"
+Output String: "chartes"
+
+5. Write a program to Swap two strings without using 3rd variable.
+Input:
+Original str1: Hello
+Original str2: World
+Output:
+Swapped str1: World
+Swapped str2: Hello
